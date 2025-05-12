@@ -1,0 +1,238 @@
+Para carnes tengo los siguientes parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Cenizas_g, Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+Para cereales tengo los siguiente parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Carbohidratos disponibles_g,Fibra dietética_g, Cenizas_g, Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+Para frutas tengo los siguiente parametros 
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Cenizas_g, Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+Para grasas y aceites tengo
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g,Grasa Total_g,Ac. grasos saturados_g, Ac. grasos monoinsaturados_g,Ac. grasos poliinsaturados_g
+para huevos tengo los siguietes parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Cenizas_g,Ac. grasos saturados_g, Ac. grasos monoinsaturados_g,Ac. grasos poliinsaturados_g,Colesterol_g,Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+Para leche y derivados tengo los siguietes parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Cenizas_g, Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+para pescados tengo los siguientes parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Cenizas_g,Ac. grasos saturados_g, Ac. grasos monoinsaturados_g,Ac. grasos poliinsaturados_g,Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+para vegetales tengo los siguientes parametros
+Alimento, Género-especie-variedad, Energía kj, Energía_kcal, Agua_g, Proteínas_g, Grasa Total_g, Carbohidratos totales_g, Carbohidratos disponibles_g,Fibra dietética_g, Cenizas_g, Sodio_mg, Potasio_mg, Calcio_mg, Fósforo_mg, Hierro_mg, Zinc_mg, Tiamina_mg, Rivoflavina_mg, Niacina_mg,Vitamina_C_mg.
+
+De lo cual quiero saber que parametros necesito para la api de cada grupo de ingredientes
+
+
+
+De los archivos excel obtuve para la carnes los siguientes datos
+  {
+    "nombre": "Cerdo, chorizo, fresco, crudo",
+    "tipo": "Carnes",
+    "caloriasPor100g": 454.0,
+    "proteinas": 13.0,
+    "grasas": 44.2,
+    "carbohidratos": 1.1,
+    "agua": 39.8,
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": 1.9,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": NaN,
+    "zinc": NaN,
+    "tiamina": 0.107,
+    "rivoflavina": 0.162,
+    "niacina": 2.7,
+    "vitaminaC": 2.6,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la Cereales los siguientes datos
+  {
+    "nombre": "Amaranto, semilla, cruda (Amarantus caudatus)",
+    "tipo": "Cereales",
+    "caloriasPor100g": 384,
+    "proteinas": 15.3,
+    "grasas": 7.6,
+    "carbohidratos": 63.6,
+    "agua": 11.2,
+    "fibra": NaN,
+    "carbohidratosDisponibles": NaN,
+    "sodio": 0,
+    "cenizas": 2.29,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": 12.17,
+    "zinc": 4.8,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": NaN,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la Frutas los siguientes datos
+  {
+    "nombre": "Aceituna de monte",
+    "tipo": "Frutas",
+    "caloriasPor100g": 93,
+    "proteinas": 1.6,
+    "grasas": 0.4,
+    "carbohidratos": 19.4,
+    "agua": 77.7,
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": 0.85,
+    "potasio": 192.0,
+    "calcio": 33.0,
+    "fosforo": 29.0,
+    "hierro": 0.59,
+    "zinc": NaN,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": 10.0,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la grasa y aceites los siguientes datos
+  {
+    "nombre": "Aceite comestible mezcla Lira, 85% girasol, 15% oliva",
+    "tipo": "Grasas y Aceites",
+    "caloriasPor100g": 900,
+    "proteinas": NaN,
+    "grasas": 100.0,
+    "carbohidratos": NaN,
+    "agua": "...",
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": NaN,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": NaN,
+    "zinc": NaN,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": NaN,
+    "acidosGrasosSaturados": 12.0,
+    "acidosGrasosMonoinsaturados": 33.6,
+    "acidosGrasosPoliinsaturados": 54.6,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la huevos los siguientes datos
+  {
+    "nombre": "Huevo de codorniz, entero, crudo",
+    "tipo": "Huevos",
+    "caloriasPor100g": 174,
+    "proteinas": 13.6,
+    "grasas": 13.3,
+    "carbohidratos": 0.1,
+    "agua": 71.9,
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": 1.1,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": NaN,
+    "zinc": NaN,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": NaN,
+    "acidosGrasosSaturados": 4.16,
+    "acidosGrasosMonoinsaturados": 5.45,
+    "acidosGrasosPoliinsaturados": 1.44,
+    "colesterol": 430.0
+  },
+De los archivos excel obtuve para la lacteos los siguientes datos
+  {
+    "nombre": "Leche, condensada, Nestlé",
+    "tipo": "Lácteos",
+    "caloriasPor100g": 328.0,
+    "proteinas": 8.0,
+    "grasas": 8.1,
+    "carbohidratos": 55.8,
+    "agua": 23.6,
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": 4.5,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": NaN,
+    "zinc": NaN,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": NaN,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la pescados los siguientes datos
+  {
+    "nombre": "Abadejo, fresco, crudo, carne",
+    "tipo": "Pescados",
+    "caloriasPor100g": 72.0,
+    "proteinas": 15.8,
+    "grasas": 0.9,
+    "carbohidratos": 0.2,
+    "agua": 81.9,
+    "fibra": null,
+    "carbohidratosDisponibles": null,
+    "sodio": 0,
+    "cenizas": 1.21,
+    "potasio": NaN,
+    "calcio": NaN,
+    "fosforo": NaN,
+    "hierro": NaN,
+    "zinc": NaN,
+    "tiamina": NaN,
+    "rivoflavina": NaN,
+    "niacina": NaN,
+    "vitaminaC": NaN,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+De los archivos excel obtuve para la vegetales los siguientes datos
+  {
+    "nombre": "Acelga, hoja",
+    "tipo": "Vegetales",
+    "caloriasPor100g": 15.0,
+    "proteinas": 2.9,
+    "grasas": 0.2,
+    "carbohidratos": NaN,
+    "agua": 90.6,
+    "fibra": 3.9,
+    "carbohidratosDisponibles": 0.4,
+    "sodio": 0.235,
+    "cenizas": 2.0,
+    "potasio": 493.0,
+    "calcio": 101.0,
+    "fosforo": 41.0,
+    "hierro": 1.8,
+    "zinc": 0.4,
+    "tiamina": 0.089,
+    "rivoflavina": 0.14,
+    "niacina": 0.5,
+    "vitaminaC": 21.1,
+    "acidosGrasosSaturados": NaN,
+    "acidosGrasosMonoinsaturados": NaN,
+    "acidosGrasosPoliinsaturados": NaN,
+    "colesterol": NaN
+  },
+Lo que quiero sabes es si es buena idea organizar la base de datos por tipo de ingrediente o como hacerlo de una forma que sea optima ya que algunos parametros solo estan para algunos tipos de alimentos

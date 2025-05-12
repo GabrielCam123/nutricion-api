@@ -1,0 +1,395 @@
+Cerdo, chorizo, fresco, crudo
+Cerdo, costilla, a la parrilla
+Cerdo, costilla flaca, cruda
+Cerdo, jamón cocido
+Cerdo, jamón crudo
+Cerdo, panceta
+Cordero, carne de la paleta, crudo
+Cordero, carne de la paleta, flaca, a la parrilla
+Pollo, asado a la parrilla
+Pollo, asado al horno
+Pollo, carne-pellejo-menudos, fresco, crudo
+Pollo, hervido
+Rana, carne de la pata, fresca, cruda
+Hamburguesas light asada
+Hamburguesas regulares de carne vacuna asadas
+Salchichas light tipo Viena
+Salchichas light tipo Viena hervidas
+Salchichas tipo Viena
+Salchichas tipo Viena hervidas
+Vacuno, asado, fresco, crudo
+Vacuno, bife, a la parrilla
+Vacuno, bife angosto c/c de novillito, fresco, crudo
+Vacuno, bola de lomo de novillito, fresco, crudo
+Vacuno, brazuelo de novillito, fresco, crudo
+Vacuno, caracú (médula de hueso largo), crudo
+Vacuno, colita de cuadril de novillito, fresco, crudo
+Vacuno, corazón de cuadril de novillito, fresco, crudo
+Vacuno, cuadril y bife angosto flaco, fresco, crudo
+Vacuno, en conserva, enlatado
+Vacuno, hamburguesas cocidas
+Vacuno, hamburguesas crudas
+Vacuno, hamburguesas light cocidas
+Vacuno, hamburguesas light crudas
+Vacuno, hígado, crudo
+Vacuno, jugo de carne
+Vacuno, lomo, fresco, crudo
+Vacuno, nalga de novillito, fresco, crudo
+Vacuno, nalga, fresco, crudo
+Vacuno, paleta de novillito, fresco, crudo
+Vacuno, paletín o marucha de novillito, fresco, crudo
+Vacuno, palomita de novillito, fresco, crudo
+Vacuno, pasta de hígado
+Vacuno, peceto de novillito, fresco, crudo
+Vacuno, pecho de novillito, fresco, crudo
+Vacuno, riñon, fresco, crudo
+Vacuno, tapa de cuadril de novillito, fresco, crudo
+Vacuno, ternera, costilla flaca, a la parrilla
+Vacuno, ternera, costilla flaca, fresco, crudo
+Vacuno, tortuguita de novillito, fresco, crudo
+Vacuno, vacío, a la parrilla
+Vacuno, vacío, al horno
+Vacuno, vacío de novillito, fresco, crudo
+Vacuno, vacío flaco, fresco, crudo
+Bife, cocido
+Bife, crudo
+Nalga, cocida
+Paleta, cocida
+Paleta, cruda
+Vacío, cocido
+Vacío, crudo
+Nalga, cruda
+Amaranto, semilla, cruda (Amarantus caudatus)
+Amaranto, semilla, cruda (Amarantus hipochondriacus)
+Amaranto, semilla, cruda (Amarantus mantegazzianus)
+Amaranto, semillia, cruda (Amarantus cruentus)
+Arroz, grano, blanco, pulido, crudo
+Arroz, grano, blanco, pulido, hervido
+Avena , grano, arrollada, cruda
+Avena, grano, arrollada, cruda
+Avena, grano, arrollada, hervida
+Cebada, grano, mondado, perlado, crudo
+Cebada, grano, mondado, perlado, hervido
+Cebada, harina "Genser", cruda
+Centeno, harina, clara, cruda
+Centeno, pan
+Centeno, pan con harina integral
+Maiz, amarillo Leales, grano entero, crudo
+Maiz amarillo, pisingallo, grano entero, crudo
+Maiz amarillo, sémola, grano entero, crudo
+Maiz, amarillo trópico 327, grano entero, crudo
+Maiz, blanco 8 rayas, grano entero, crudo
+Maiz, blanco perla, grano entero, crudo
+Maiz, choclo
+Maiz, grano, entero (Zea mays spp)
+Maiz, harina amarilla (polenta), cruda
+Maiz, harina amarilla (polenta), hervida
+Maiz, pan
+Trigo, bizcochos "Bay Biscuit"
+Trigo, bizcochos, vainillas
+Trigo, galleta de campo
+Trigo, galleta marinera
+Trigo, galletitas de agua "Express"
+Trigo, galletitas de agua "Traviata"
+Trigo, galletitas de harina blanca
+Trigo, galletitas de harina integral
+Trigo, galletitas dulces "Manón"
+Trigo, galletitas dulces "Minue"
+Trigo, galletitas oblea "Opera"
+Trigo, grano entero, crudo
+Trigo, grisines
+Trigo, harina cuatro ceros
+Trigo, harina integral
+Trigo, harina tres cero
+Trigo, pan alemán
+Trigo, pan criollo
+Trigo, pan de salvado
+Trigo, pan de Viena
+Trigo, pan francés
+Trigo, pan negro con levadura agria
+Trigo, pan negro con levadura comprimida
+Trigo, pan negro sin levadura
+Trigo, salvado
+Trigo, sémola, cruda
+Trigo, sémola, hervida
+Trigo, tallarines, frescos, hervidos
+Aceituna de monte
+Aceituna verde, pulpa, encurtida
+Anullá enlatado, contenido envase
+Anullá, pulpa, fresco
+Banulla, pulpa, fresca
+Cereza, pulpa, fresca
+Ciruela, pasa, cruda
+Ciruela, pasa, hervida
+Ciruela, pulpa, fresca
+Coco, pulpa, fresco, crudo
+Damasco, pulpa, fresco, crudo
+Doca
+Durazno orejón, pulpa y piel, hervido
+Durazno, pulpa, envasado al natural
+Durazno, pulpa, fresco, crudo
+Frutilla pulpa, fresca, cruda
+Granada, pulpa, fresca
+Guaraniná, Brumelia obtusifolia
+Higo, pulpa, fresca
+Kaki, pulpa, fresco
+Kinoto, pulpa y cáscara, fresco, crudo
+Limón, pulpa, fresco
+Manzana, hervida
+Manzana, pulpa, fresca, cruda
+Mburucuyá maduro
+Mburucuyá verde
+Melón, pulpa, fresco
+Membrillo, pulpa, fresco, crudo
+Mora, fresca
+Ñandapirí
+Palta, pulpa, fresca
+Pera, orejón, crudo
+Pera, pulpa, fresca, cruda
+Pomelo, pulpa, fresco
+Sandía, pulpa, fresca, cruda
+Ubajay
+Aceite comestible mezcla Lira, 85% girasol, 15% oliva
+Aceite comestible mezcla Patito, 94% girasol, 6% maiz
+Aceite de canola
+Aceite de girasol Familiar
+Aceite de girasol Ideal
+Aceite de girasol Natura
+Aceite de maiz Arcor
+Aceite de maiz Cocinero
+Aceite de maiz Mazzola
+Aceite de oliva Cocinero
+Aceite de uva Cocinero
+Grasa de cerdo
+Grasa Vacuna
+Margarina 100% vegetal Delicia
+Margarina 100% vegetal Manty (en pote y en pan)
+Margarina reducida en calorias Manty liviana
+Huevo de codorniz, entero, crudo
+Huevo de gallina, clara, cocido
+Huevo de gallina, clara, cruda
+Huevo de gallina, entero, crudo
+Huevo de gallina, frito
+Huevo de gallina, poché
+Huevo de gallina, yema, cruda
+Leche, condensada, Nestlé
+Leche de burra, entera, fluida
+Leche de cabra, entera, fluida
+Leche de oveja, entera, fluida
+Leche de vaca, entera, fluida, adicionada con vitamina A
+Leche de vaca, entera, fluida, pasteurizada
+Leche de vaca parcialm. descremada, adic. con vit A y D
+Leche en polvo descremada
+Leche en polvo entera
+Leche humana, entera, en polvo
+Leche humana, entera, fluida
+Manteca, fresca
+Queso crema, entero, untable
+Queso descremado, untable
+Queso, Petit Suisse
+Queso semidescremado, untable
+Queso Blanco Argentino Semimagro
+Queso Belpaese
+Queso Camembert
+Queso cremoso
+Queso cuartirolo
+Queso doble crema
+Queso Limburgués
+Queso mozarella
+Queso Por Salut
+Queso azul
+Queso Cheddar
+Queso Chubut
+Queso Fontina
+Queso Gorgonzola
+Queso Gruyere
+Queso Holanda
+Queso Pategrás
+Queso Roquefort
+Queso Suizo
+Queso Tafí
+Queso Tandil
+Queso tipo Mar del Plata
+Queso Goya
+Queso Parmesano
+Queso Provolone
+Queso Reggianito
+Queso Sardo
+Queso Sbrinz
+Ricota de leche entera
+Ricotta semidescremada
+Yogur descremado
+Yogur descremado bebible
+Yogur descremado fortificado con Ca
+Yogur entero bebible
+Yogur entero natural
+Yogur entero saborizado
+Abadejo, fresco, crudo, carne
+Amarillo, fresco, a la parrilla, músculo dorsal
+Amarillo, fresco, al horno, músculo dorsal
+Amarillo, fresco, crudo, músculo dorsal
+Amarillo, fresco, frito, músculo dorsal
+Amarillo, fresco, hervido, músculo dorsal
+Anchoa, fresca, cruda, carne
+Anchoita, fresca, cruda, carne
+Armado, fresco, al horno, músculo dorsal
+Armado, fresco, crudo, músculo dorsal
+Armado, fresco, crudo, músculo ventral
+Armado, fresco, frito, músculo dorsal
+Armado, fresco, hervido, músculo dorsal
+Besugo, fresco, crudo, carne
+Boga, fresca, a la parrilla, músculo dorsal
+Boga, fresca, al horno, músculo dorsal
+Boga, fresca, cruda, músculo ventral
+Boga, fresca, frita, músculo dorsal
+Boga, fresca, hervida, músculo dorsal
+Bonito, fresco, crudo, carne
+Brótola, fresca, cruda, carne
+Caballa, fresca, cruda, carne
+Castañeta, fresca, cruda, carne
+Castañeta, fresca, cruda, entera
+Congrio, fresco, crudo, carne
+Cornalito, fresco, crudo, entero
+Corvina blanca, fresca, cruda, carne
+Corvina negra, fresca, cruda, carne
+Dorado, fresco, crudo, carne
+Gatuso, fresco, crudo, carne
+Jurel, fresco, crudo, carne
+Lenguado, fresco, crudo, carne
+Lisa, fresca, cruda, carne
+Merluza, fresca, cruda, carne
+Mero, fresco, crudo, carne
+Moncholo, fresco, al horno, músculo dorsal
+Moncholo, fresco, crudo, músculo dorsal
+Moncholo, fresco, crudo, músculo ventral
+Moncholo, fresco, hervido, músculo dorsal
+Palometa, fresca, cruda, carne
+Pargo, fresco, crudo, carne
+Patí, fresco, a la parrilla, músculo dorsal
+Patí, fresco, al horno, músculo dorsal
+Patí, fresco, crudo, carne
+Patí, fresco, crudo, músculo dorsal
+Patí, fresco, crudo, músculo ventral
+Patí, fresco, frito, músculo dorsal
+Patí, fresco, hervido, músculo dorsal
+Pejerrey agua dulce, fresco, crudo, carne
+Pejerrey mar, fresco, crudo, carne
+Pescadilla, fresca, crudo, carne
+Pez Gallo, fresco, crudo, carne
+Pez palo, fresco, crudo, carne
+Rubio, fresco, crudo, carne
+Sábalo, fresco, a la parrilla, músculo dorsal
+Sábalo, fresco, al horno, músculo dorsal
+Sábalo, fresco, crudo, músculo dorsal
+Sábalo, fresco, crudo, músculo ventral
+Sábalo, fresco, frito, músculo dorsal
+Sábalo, fresco, hervido, músculo dorsal
+Sardina fueguina, fresca, cruda, carne
+Surubí, fresco, al horno, músculo dorsal
+Surubí, fresco, crudo, carne
+Surubí, fresco, crudo, músculo dorsal
+Surubí, fresco, frito, músculo dorsal
+Surubí, fresco, hervido, músculo dorsal
+Tararira, fresca, cruda, carne
+Testolin, fresco, crudo, carne
+Calamar, fresco, crudo (tubo aletas y tentáculos)
+Calamar, fresco, entero, crudo
+Camarón, fresco, crudo, carne de cola
+Centolla, fresca, carne, cruda
+Centolla, fresca (carne de pata solamente)
+Langostino, fresco, crudo, carne de cola
+Mejillón, fresco, crudo (capturado en primavera)
+Mejillón, fresco, crudo, carne
+Mejillón, fresco, pre-cocido, carne
+Ancho, pasta
+Caballa, tronco
+Acelga, hoja
+Acelga, tallo
+Achicoria de Monte
+Achicoria, hoja, fresca, cruda
+Achira (raíces)
+Ajo, bulbo, fresco, crudo
+Alcaucil, inflorescencia, fresco, crudo
+Alfalfa, hoja, fresca, cruda
+Arveja, semilla, fresca, cruda
+Arveja, semilla, fresca, enlatada
+Arveja, semilla, fresca, hervida
+Arveja, semilla, seca, entera, cruda
+Arveja, semilla, seca, partida, cruda
+Arveja, semilla, seca, partida, hervida
+Avellana, pepita, seca
+Batata, frita
+Batata, hervida
+Batata, raiz, fresca, cruda
+Berenjena, pulpa, fresca, cruda
+Berro (hojas y tallo), fresco, crudo
+Brócoli, tallo de hoja, fresco, crudo
+Cardo (penca y hojas), fresco, crudo
+Castaña de Pará, pepita, cruda
+Cebolla blanca, bulbo, cruda
+Cebolla blanca, bulbo, hervida
+Chaucha, vaina y semilla, cruda
+Coliflor, pimpollo, fresco, crudo
+Diente de león, hoja
+Escarola crespa, hoja, cruda
+Esparrago, tallo tierno, fresco, crudo
+Espinaca, hoja, fresca, cruda
+Espinaca, hoja, fresca, hervida
+Garbanzo, grano entero, seco, hervido
+Habas, semilla inmadura, fresca, cruda
+Hinojo, tallo, fresco, crudo
+Lengua de vaca, hojas, tejido fresco, parte comestible
+Lenteja, semilla entera, seca, cruda
+Lupino andino, con cáscara, semilla, crudo
+Lupino andino, sin cáscara, semilla, crudo
+Maní, semilla con piel, crudo
+Maní, semilla sin piel, tostado
+Mastuerzo (hoja y pecíolo), fresco, crudo
+Mastuerzo, hoja
+Nabo, hervido
+Nabo, raiz (pulpa), fresco, crudo
+Nuez, pepita
+Papa, pulpa sin cáscara, fresca, cruda
+Papa, pulpa sin cáscara, frita, bastón
+Papa, pulpa sin cáscara, hervida
+Pepino, pulpa, fresco, crudo
+Perejil, hoja, fresco, crudo
+Piñon de araucaria, pepita, crudo
+Pistacho, pepita, crudo
+Poroto Alubia, semilla, seco
+Poroto Carioca, semilla, seco
+Poroto Colorado, semilla, seco
+Poroto Grand Berry, semilla, seco
+Poroto Great Northern, semilla, seco
+Poroto Negro, semilla, seco
+Poroto Novy Bean, semilla, seco
+Poroto Oval, semilla, seco
+Poroto Pallares, semilla, seco
+Poroto Small Red, semilla, seco
+Poroto, semilla, enlatado
+Poroto, semilla, seco, crudo
+Puerro (bulbo, tallo y hojas), fresco, crudo
+Quinua, harina
+Quinua, semilla, cruda
+Rabanito, raiz, fresco, crudo
+Remolacha, tubérculo, fresca, cruda
+Remolacha, tubérculo, hervida
+Repollito Bruselas, hoja, fresco, crudo
+Repollo blanco, hoja, fresco, crudo
+Repollo blanco, hoja, hervido
+Salsifí, raiz, fresco, crudo
+Soja FT11, poroto seco
+Soja, semilla madura, seca, cruda
+Tapioca, cruda (harina mandioca)
+Tapioca, hervida
+Tomate, fresco, crudo
+Tomate, hervido
+Tomate, jugo, fresco
+Verdolaga, hoja
+Verdolaga, hoja y tallo, fresca, cruda
+Yuyo colorado, hoja
+Zanahoria, jugo, fresco
+Zapallito, parte tierna, fresco, crudo
+Zapallito, parte tierna, hervido
+Zapallo, pulpa, fresco, crudo
+Zapallo, pulpa, hervido
